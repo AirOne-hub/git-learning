@@ -1,0 +1,1 @@
+Hello this repo is for training and share some of my python scripts, its not alot, but it's fine for the moment 😊
